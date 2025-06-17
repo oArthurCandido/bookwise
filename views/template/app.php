@@ -15,7 +15,7 @@
         </nav>
     </header>
     <main>
-            <?php require"views/{$view}.php"; ?>
+            <?php require"views/{$view}.view.php"; ?>
     </main>
 </body>
 </html>

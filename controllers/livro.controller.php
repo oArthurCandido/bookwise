@@ -8,5 +8,6 @@ if (!$livro) {
     echo "Livro não encontrado.";
     exit;
 }
-$view = "livro.view";
-require_once 'views/template/app.php';
+view("livro", [
+    'livro' => $livro
+]);
