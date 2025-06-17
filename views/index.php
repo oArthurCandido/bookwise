@@ -1,4 +1,3 @@
-
 <section class=" p-4">
 <input type="text" placeholder="Search books..." class="mb-4 p-2 border rounded  mt-2 w-full md:w-1/2 lg:w-1/3 m-auto">
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
